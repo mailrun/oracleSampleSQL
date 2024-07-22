@@ -158,4 +158,3 @@ JOIN sh.times t ON s.time_id = t.time_id
 GROUP BY ch.channel_desc, t.calendar_quarter_desc
 ORDER BY ch.channel_desc, t.calendar_quarter_desc;
 ```
-```
