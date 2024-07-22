@@ -85,4 +85,3 @@ SELECT prod_id,
 FROM sh.sales 
 GROUP BY prod_id;
 ```
-```
