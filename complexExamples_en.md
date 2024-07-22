@@ -1,4 +1,4 @@
-## product analysis
+# Product analysis
 ### Query the top 10 products with the highest sales volume
 ```sql
 SELECT p.prod_name, SUM(s.quantity_sold) AS total_quantity
