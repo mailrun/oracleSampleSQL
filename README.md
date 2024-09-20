@@ -1,4 +1,4 @@
-## oracle Sample SQL
+# oracle Sample SQL
 
 <li>Oracle 数据库的 SH（Sales History）schema 是一个常用的示例数据库，它包含与销售相关的数据，包括产品、客户、渠道、促销、时间和销售事实表等。</li>
 <li>基于这些表和视图，可以提出很多业务层面的问题。
