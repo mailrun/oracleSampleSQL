@@ -5,7 +5,7 @@
 <li>这个文档基于这份数据集给出一些常见语义场景下（业务分析、决策支持和绩效评估）的SQL脚本，可以用于Select AI测试场景。
 <li>以上SQL示例已经在ADB数据库上测试通过。
 <li>现在暂时仅有SH Schema的示例SQL。
-
+<hr>
 <li>The SH (Sales History) schema of Oracle database is a commonly used sample database that contains sales-related data, including product, customer, channel, promotion, time, and sales fact tables.
 <li>Based on these tables and views, many business-level questions can be raised.
 <li>Based on this dataset, this document provides some SQL scripts for common semantic scenarios (business analysis, decision support, and performance evaluation), which can be used in Select AI test scenarios.
